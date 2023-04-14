@@ -1,8 +1,9 @@
 body{
    margin: 0%;
-   padding: 0%;
+   padding: 2%;
    width: 100%;
    background-image: url("https://www.nationsonline.org/gallery/World/North-Atlantic-Ocean.jpg");
+
 }
 
 article{
@@ -10,23 +11,33 @@ article{
    padding: 0%;
    width: 100%;
 
+   border-color: red;
+   border-style: solid;
+   border-top: 0%;
+   border-bottom: 0%;
+border-radius: 55%;
+   height: 100%;
 }
+
 
 .div1{
    position: relative;
 margin: 5%;
    float: left;
    width: 35%;
-}
+   text-align: center;}
 
 
 p{
    border: 2px solid black;
    border-radius: 25px;
    box-shadow: 5px 5px 5px black;
-   font-size: 6vw;
-
+   font-size: 4vw;
    padding: 3%;
+   color: greenyellow;
+}
+a{
+   text-decoration: none;
 }
 
 
@@ -35,6 +46,14 @@ p{
    margin: 5%;
    float: right;
    width: 35%;
-
+   text-align: center;
 }
 
+.div3{
+   margin: 2%;
+   height: 20%;
+}
+
+.div4{
+   margin: 2%;
+}
