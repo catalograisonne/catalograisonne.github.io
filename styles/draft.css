@@ -1,0 +1,65 @@
+
+
+     html {
+        cursor: url(./my-cursor.png), auto !important;
+
+        
+      }
+
+      a {
+        cursor: url("./my-cursor-2.png"), auto !important;
+    }
+
+
+article{
+margin: 0%;
+padding: 0%;
+}
+
+
+.text{
+    margin-top: 10%;
+    margin-left: 2%;
+    width: 25%;
+    color: rgb(78, 78, 78);
+}
+.intro{
+
+text-align: center;
+
+}
+figure{
+    width: 25%;
+
+}
+
+.gaps{
+    position:absolute;
+    left: 55%;
+    width: 10%;
+    top: 20%;
+}
+
+
+
+
+.projects{
+    color: rgb(78, 78, 78);
+ 
+
+
+}
+
+
+
+
+
+
+
+
+
+h1{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 2vw;
+line-height: 1.5vw;
+}
