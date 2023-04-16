@@ -62,3 +62,76 @@ a{
 .div4{
    margin: 2%;
 }
+
+@media (max-width: 1250px) {
+
+   body{
+      margin: 0%;
+      padding: 0%;
+      width: 100%;
+      background-image: none;
+      background-color: aliceblue;
+background-size: 200%;
+   }
+   
+   article{
+      margin: 0%;
+      padding: 0%;
+      width: 100%;
+   
+      border-color: red;
+      border-style: solid;
+      border-top: 0%;
+      border-bottom: 0%;
+   border-radius: 55%;
+   
+   }
+   
+   
+   .div1{
+      position: relative;
+      margin: 5%;
+      float: none;
+      width: 90%;
+      text-align: center;
+      font-size: 8vw;
+   }
+   
+   p{
+      border: 2px solid black;
+      border-radius: 25px;
+      box-shadow: 5px 5px 5px black;
+     
+      padding: 3%;
+      color: greenyellow;
+   }
+   a{
+      text-decoration: none;
+   }
+   
+   
+   .div2{
+      position: relative;
+      margin: 5%;
+      float: none;
+      width: 90%;
+      text-align: center;
+      font-size: 8vw;
+   }
+   
+   .div3{
+      margin: 2%;
+      height: 10%;
+      font-size: 2vw;
+      
+   }
+   
+   .div4{
+      margin: 2%;
+   }
+   
+
+
+
+
+ }
