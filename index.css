@@ -43,7 +43,7 @@ a{
    text-decoration: none;
 }
 
-
+/*
 .div2{
    position: relative;
    margin: 5%;
@@ -62,8 +62,9 @@ a{
 .div4{
    margin: 2%;
 }
-
+*/
 @media (max-width: 1250px) {
+   
 
    body{
       margin: 0%;
