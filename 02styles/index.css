@@ -1,0 +1,275 @@
+
+
+     html {
+        cursor: url(./my-cursor.png), auto !important;
+
+        
+      }
+
+      a {
+        cursor: url("./my-cursor-2.png"), auto !important;
+    }
+th {
+    cursor: url(./my-cursor.png), auto !important;
+
+        
+}
+/* garden.css */
+/* garden.css */
+/* garden.css */
+/* garden.css */
+
+
+body{
+    margin: 0%;
+    padding: 0%;
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    text-align:center;
+    background-color: lightblue;
+
+}
+
+.body {
+    cursor: -webkit-grab;
+    cursor: grab;
+    background-color: white;
+}
+
+
+article{
+margin: 0%;
+ padding: 0%;
+display: flex;
+justify-content: center;
+}
+
+.links {
+ position: absolute;
+height: 100%;
+}
+
+
+
+th,
+td {
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 5vw;
+    padding: .4%;
+    background-color: white;
+}
+
+
+.p1 {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    right: 10%;
+    font-size: 5vh;
+    font-size: 2.5vw;
+    text-transform: uppercase;
+    text-align: left;
+
+}
+
+a{
+    text-decoration-color: grey;
+    color:  grey;
+}
+
+.cod{
+
+    width: 20%;
+    transform: scaleX(140%);
+    padding: 1%;
+
+    
+}
+#hello {
+    text-decoration: underline;
+    color: black;
+    font-size: 1.2vw;
+    cursor: url("./my-cursor-2.png"), auto !important;
+    background-image: linear-gradient(grey, lightgrey);
+}
+
+.doll{
+    font-size: 3vw;
+}
+
+.consider{
+    font-size: 2vh;
+    text-decoration: none;
+    line-height: 2vh;
+}
+
+.books{
+  /*  transform: scale(90%); */
+    color: lightgrey;
+}
+
+
+
+
+.behance{
+    text-decoration-color: gainsboro;
+    color: gainsboro;
+        transform: scaleX(140%);
+}
+
+#behance{
+    color: gainsboro;
+    
+}
+.fourth{
+    height: 10%;
+}
+
+#goodbye{
+    text-decoration: underline;
+  color: black;
+  font-size: 1.2vw;
+  cursor: pointer;
+  background-image: linear-gradient(grey, lightgrey);
+
+}
+
+.myName{
+    font-size: 3vh;
+}
+
+
+/* end of garden.css */
+/* end of garden.css */
+/* end of garden.css */
+/* end of garden.css */
+
+
+/* beginning of sources */
+/* beginning of sources */
+/* beginning of sources */
+/* beginning of sources */
+
+.tit {
+    font-size: 15px;
+    text-align: center;
+}
+
+.other {
+    position: fixed;
+}
+
+.sorc {
+    font-size: 6.5vh;
+    font-size: 4.5vw;
+    text-align: center;
+    text-decoration: underline;
+    z-index: 2;
+    line-height: 6.3vh;
+}
+
+.sorc:hover {
+    transform: skewY(20deg);
+
+}
+
+.sorc a:default {
+    color: blue;
+
+}
+
+.sorc a:visited {
+    color: blue;
+
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.colum {
+    float: left;
+    width: 33.33%;
+    padding: 25px;
+    height: 300px;
+    /* Should be removed. Only for demonstration */
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 300px) {
+    .column {
+        width: 100%;
+    }
+}
+
+
+/* end of sources.css */
+/* end of sources.css */
+/* end of sources.css */
+/* end of sources.css */
+
+
+/* beginning of d0llici0us archive */
+/* beginning of d0llici0us archive */
+/* beginning of d0llici0us archive */
+/* beginning of d0llici0us archive */
+
+.handpoke {
+    position: relative;
+    z-index: 1;
+    font-size: 3vw;
+}
+
+.pixel {
+    position: relative;
+    width: 40%;
+    z-index: -1;
+}
+
+
+.pixel3 {
+    position: relative;
+    width: 26.6%;
+    z-index: -1;
+}
+
+
+.representation {
+    position: relative;
+    width: 40%;
+}
+
+
+/* end of d0llici0us archive */
+/* end of d0llici0us archive */
+/* end of d0llici0us archive */
+/* end of d0llici0us archive */
+
+
+/* beginning of considerations  */
+/* beginning of considerations  */
+/* beginning of considerations  */
+/* beginning of considerations  */
+
+
+.consider1{
+    font-size: 6vh;
+}
+
+
+
+
+
+

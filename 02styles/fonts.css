@@ -1,0 +1,31 @@
+@font-face {
+    font-family: AUTHENTICSans;
+    src: url(AUTHENTICSans-Condensed-90.otf);
+}
+
+* {
+    font-family: AUTHENTICSans;
+}
+
+
+@font-face {
+    font-family: DejaVu;
+    src: url(DejaVuSans.ttf);
+
+
+}
+
+* {
+    font-family: DejaVu;
+}
+
+@font-face {
+    font-family: Migra;
+    src: url(MigraItalic-ExtralightItalic.otf);
+
+
+}
+
+* {
+    font-family: Migra;
+}
