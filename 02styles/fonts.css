@@ -34,16 +34,16 @@
 /* CURSOR */
 
 html {
-    cursor: url(./my-cursor.png), auto !important;
+    cursor: url(./my-cursor-3.png), auto !important;
 
     
   }
 
   a:hover {
-    cursor: url("./my-cursor-2.png"), auto !important;
+    cursor: url(./my-cursor-2.png), auto !important;
 }
 th {
-cursor: url(./my-cursor.png), auto !important;
+cursor: url(./my-cursor-3.png), auto !important;
 
     
 }
