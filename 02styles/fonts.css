@@ -29,3 +29,21 @@
 * {
     font-family: Migra;
 }
+
+
+/* CURSOR */
+
+html {
+    cursor: url(./my-cursor.png), auto !important;
+
+    
+  }
+
+  a:hover {
+    cursor: url("./my-cursor-2.png"), auto !important;
+}
+th {
+cursor: url(./my-cursor.png), auto !important;
+
+    
+}
