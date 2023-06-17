@@ -40,7 +40,7 @@ html {
   }
 
   a:hover {
-    cursor: url(./cursor/my-cursor-4.png), auto !important;
+    cursor: url(./cursor/my-cursor-hover.png), auto !important;
 }
 th {
 cursor: url(./cursor/my-cursor-2.png), auto !important;
