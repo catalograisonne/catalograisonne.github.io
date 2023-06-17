@@ -47,3 +47,6 @@ cursor: url(./cursor/my-cursor-2.png), auto !important;
 
     
 }
+#hello:hover {
+    cursor: url(./cursor/my-cursor-hover.png), auto !important;
+}
