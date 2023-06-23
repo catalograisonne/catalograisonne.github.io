@@ -22,6 +22,10 @@ body{
     background-color: white;
 }
 
+canvas {
+    display: block;
+  }
+  
 
 article{
 margin: 0%;
@@ -80,6 +84,9 @@ a{
     background-image: linear-gradient(grey, lightgrey);
 }
 
+.index{
+    font-size: 3vh;
+    }
 .doll{
     font-size: 3vw;
 }
@@ -95,7 +102,9 @@ a{
     color: lightgrey;
 }
 
-
+#theBody{
+    font-size: 2vh;
+}
 
 
 .behance{
