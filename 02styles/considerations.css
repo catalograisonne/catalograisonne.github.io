@@ -1,15 +1,22 @@
 html, body {
     margin: 0;
     padding: 0;
-    align-content: center;
     text-align:center;
+
   }
 
 
 canvas {
+    margin-left: 28%;
+margin-right: 28%;
+    position:fixed;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 10%;
+    top: 10%;
+border: 5px solid #000000";
+
+
+  }
+  p{
+    position: relative;
   }
   
