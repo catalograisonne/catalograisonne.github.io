@@ -66,9 +66,9 @@ a{
 }
 
 .cod{
+    width: 10%;
+    height: 30%;
 
-    width: 20%;
-    padding: 1%;
     border-radius: 10px;
 
 
@@ -108,11 +108,12 @@ a{
 .behance{
     text-decoration-color: gainsboro;
     color: gainsboro;
-        transform: scaleX(140%);
+
 }
 
 #behance{
     color: gainsboro;
+    font-size: 2vh;
     
 }
 .fourth{
