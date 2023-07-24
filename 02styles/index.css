@@ -44,7 +44,6 @@ td {
     font-size: 5vw;
     padding: .4%;
     background-color: white;
-    display: inline;
 }
 
 
@@ -66,8 +65,8 @@ a{
 }
 
 .cod{
-    width: 10%;
-    height: 30%;
+    width: 5%;
+    height: 20%;
 
     border-radius: 10px;
 
