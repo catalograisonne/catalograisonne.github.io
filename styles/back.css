@@ -1,0 +1,295 @@
+/* MY WORK MY WORK MY WORK MY WORK  */
+/* MY WORK MY WORK MY WORK MY WORK  */
+/* MY WORK MY WORK MY WORK MY WORK  */
+/* MY WORK MY WORK MY WORK MY WORK  */
+/* MY WORK MY WORK MY WORK MY WORK  */
+/* MY WORK MY WORK MY WORK MY WORK  */
+
+/* WORK NAMES ON WORK PAGE // TITLES, THE BUTTONS THEMSELVES */
+/* WORK NAMES ON WORK PAGE // TITLES, THE BUTTONS THEMSELVES */
+/* WORK NAMES ON WORK PAGE // TITLES, THE BUTTONS THEMSELVES */
+
+
+
+.wtitle {
+    position: fixed;
+    font-size: 2.75vh;
+    left: 40%;
+    top: 0%;
+
+
+}
+
+/* THE CONTENT THE CONTENT THE CONTENT THE CONTENT */
+
+/* MOVING IMAGES MOVING IMAGES */
+.vidvid {
+    position: fixed;
+    z-index: -1;
+    font-size: 16px;
+}
+
+/* NOTE VIDEO PIECE */
+.note1 {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    width: 80%;
+}
+
+.note {
+    position: absolute;
+    left: 4%;
+    top: 8%;
+    font-size: 15px;
+
+}
+
+/* LOVE VIDEO PIECE */
+.love1 {
+    position: absolute;
+    top: 150%;
+    left: 10%;
+    width: 80%;
+}
+
+.love {
+    position: absolute;
+    left: 5%;
+    font-size: 15px;
+    top: 138%;
+}
+
+/* AGUN VIDEO PIECE */
+.agun1 {
+    position: absolute;
+    top: 320%;
+    left: 10%;
+    width: 80%;
+}
+
+.agun {
+    position: absolute;
+    top: 308%;
+    left: 5%;
+    font-size: 15px;
+}
+
+/* WORK VIDEO PIECE*/
+.work1 {
+    position: absolute;
+    top: 430%;
+    left: 10%;
+    width: 80%;
+}
+
+.wor {
+    position: absolute;
+    top: 418%;
+    left: 5%;
+    font-size: 15px;
+}
+
+/* FABRICATION VIDEO PIECE */
+.fab1 {
+    position: absolute;
+    top: 540%;
+    left: 10%;
+    width: 80%;
+    padding-bottom: 5%;
+}
+
+.fab {
+    position: absolute;
+    top: 528%;
+    left: 5%;
+    font-size: 15px;
+}
+
+/* COMP1 ANIMATION */
+.comp1 {
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    width: 60%;
+}
+
+.cr {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    font-size: 15vh;
+}
+
+.comp {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    font-size: 15px;
+}
+
+/* STRESSED ANIMATION */
+.stress1 {
+    position: absolute;
+    top: 60%;
+    left: 35%;
+    width: 60%;
+}
+
+.sr {
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    font-size: 15vh;
+}
+
+.stress {
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    font-size: 15px;
+
+}
+
+
+
+/* DIGITAL IMAGES DIGITAL IMAGES DIGITAL IMAGES*/
+img {
+    position: relative;
+    width: 33%;
+    margin-top: 0px;
+    z-index: -1;
+}
+
+.modalw {
+    display: block;
+    /* Hidden by default */
+    position: relative;
+    /* Stay in place */
+    z-index: 1;
+    /* Sit on top */
+    left: 15%;
+    top: 20%;
+    width: 20%;
+    /* Full width */
+    height: 10%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: white;
+    /* Fallback color */
+    border:
+
+
+}
+
+.modal-contentw {
+    display: block;
+    background-color: #fefefe;
+    margin: 0% auto;
+    z-index: 1;
+    /* 15% from the top and centered */
+    padding: 10px;
+    border: 1px solid #888;
+    width: 50%;
+    height: 100%;
+    /* Could be more or less, depending on screen size */
+
+}
+
+/* OBJECTS? OBJECTS? OBJECTS? OBJECTS? OBJECTS? */
+
+
+
+
+/* PUBLICATION PUBLICATION PUBLICATION PUBLICATION */
+/* PUBLICATION PUBLICATION PUBLICATION PUBLICATION */
+/* PUBLICATION PUBLICATION PUBLICATION PUBLICATION */
+/* PUBLICATION PUBLICATION PUBLICATION PUBLICATION */
+/* PUBLICATION PUBLICATION PUBLICATION PUBLICATION */
+
+.fantasy {
+
+    width: 50%;
+    align-content: center;
+    z-index: -1;
+
+}
+
+.fantd {
+    position: fixed;
+    top: 0%;
+    font-size: 6vh;
+    text-align: justify;
+
+
+}
+
+.fntsy {
+    font-family: 'AUTHENTICSans';
+    top: 0%;
+    text-align: justify;
+}
+
+.pub1 {
+    position: relative;
+    font-size: 14px;
+    text-align: center;
+    top: 60%;
+}
+
+.fanta {
+
+    position: absolute;
+    top: 30%;
+    left: 90%;
+    font-size: 6vh;
+    transform: rotate(90deg);
+    font-family: 'AUTHENTICSans';
+}
+
+
+
+.fant {
+    position: absolute;
+    padding-top: 2%;
+    left: 30%;
+    width: 60%;
+
+}
+
+.fantasy-img {
+    position: relative;
+    width: 100%;
+    padding-bottom: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*EXTRA OTHER EXTRA WHATEVER*/
+
+a:link {
+    z-index: 1;
+    color: black;
+}
+
+
+a:default {
+    color: black;
+
+}
+
+
+
+

@@ -1,0 +1,52 @@
+@font-face {
+    font-family: AUTHENTICSans;
+    src: url(./fonts/AUTHENTICSans-Condensed-90.otf);
+}
+
+* {
+    font-family: AUTHENTICSans;
+}
+
+
+@font-face {
+    font-family: DejaVu;
+    src: url(./fonts/DejaVuSans.ttf);
+
+
+}
+
+* {
+    font-family: DejaVu;
+}
+
+@font-face {
+    font-family: Migra;
+    src: url(./fonts/MigraItalic-ExtralightItalic.otf);
+
+
+}
+
+* {
+    font-family: Migra;
+}
+
+
+/* CURSOR */
+
+html {
+    cursor: url(./cursor/my-cursor-2.png), auto !important;
+
+    
+  }
+
+  a:hover {
+    cursor: url(./cursor/my-cursor-hover.png), auto !important;
+}
+th {
+cursor: url(./cursor/my-cursor-2.png), auto !important;
+
+    
+}
+#hello:hover {
+    cursor: url(./cursor/my-cursor-hover.png), auto !important;
+}
